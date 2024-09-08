@@ -1,1 +1,1 @@
-# public
+# Static site generator
